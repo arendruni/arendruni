@@ -20,7 +20,7 @@ export default function Home() {
           <img className={`${styles.memoji} mb-3`} src="memoji.png"></img>
           <h1>Andrea Giunio Bruni</h1>
           <p className="lead">
-            I'm a 24 years-old web developer <br></br> based in Italy.
+            I'm a young web developer <br></br> based in Italy.
           </p>
         </main>
         <footer className={`${styles.footer} mt-auto`}>
